@@ -1,7 +1,11 @@
 {
-	"font_size": 15,
+	"centurion_folder_icons": true,
+	"color_scheme": "Packages/Theme - Cyanide/Twilightcyanide.tmTheme",
+	"font_size": 11,
+	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"theme": "Cyanide.sublime-theme"
 }

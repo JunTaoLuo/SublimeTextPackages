@@ -6,6 +6,9 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"AutoHotkey"
+		"AutoHotkey",
+		"BracketHighlighter",
+		"Package Control",
+		"Theme - Cyanide"
 	]
 }
