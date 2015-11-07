@@ -7,5 +7,7 @@
 	[
 		"Vintage"
 	],
-	"theme": "Cyanide.sublime-theme"
+	"theme": "Cyanide.sublime-theme",
+	"contrasted_tabs": true,
+	"contrasted_light_quick_panel": true
 }
